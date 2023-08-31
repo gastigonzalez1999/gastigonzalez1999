@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaston, a fullstack engineer in the making 👨‍💻
+### Hi there 👋 I'm Gaston, a software engineer in the making 👨‍💻
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -11,7 +11,7 @@
 
 About me:
   
-💪 I'm currently working as a fullstack developer at Vangwe
+💪 I'm currently working as a software engineer at Vangwe
 
 👨‍🎓 I’m currently mastering MERN Stack. Check out my public repositories!! ❤️
 
