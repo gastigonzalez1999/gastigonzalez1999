@@ -20,7 +20,6 @@ About me:
 ⚡ Fun fact: I love marvel movies 🕷️
 
 <br>
-<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gastigonzalez1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
