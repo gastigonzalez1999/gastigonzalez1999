@@ -11,7 +11,7 @@
 
 About me:
   
-💪 I'm currently working as a software engineer at Vangwe
+💪 I'm currently working as a software engineer at Vangwe!
 
 👨‍🎓 I’m currently enthusiastic on AI and fintech. Check out my public repositories! ❤️
 
