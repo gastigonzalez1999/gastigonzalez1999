@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaston, a software engineer in the making 👨‍💻 with over 4+ years of experience
+### Hi there 👋 I'm Gaston, a software engineer 👨‍💻 with over 4+ years of experience
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
